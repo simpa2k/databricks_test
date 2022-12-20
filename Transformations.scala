@@ -1,3 +1,5 @@
+package se.folksam.y73
+
 import org.apache.spark.sql.DataFrame
 import org.apache.spark.sql.functions.lit
 
